@@ -10,7 +10,7 @@
 
 <img width="20" height="20" alt="tumblr_b5d6cc2181b9fc9a696efce0a863aaa6_565f1201_75" src="https://github.com/user-attachments/assets/6490eab6-2420-4402-88ad-0f9dd0d74fa2" />
 
-$${\color{#7a619b}call \space\ me \space\ rez \space\ or \space\ hugo.}$$
+$${\color{#7a619b}call \space\ me \space\ rain \space\ or \space\ hugo.}$$
 
 $${\color{#7a619b}most \space\ preferably \space\ he/him \space\ for \space\ pronouns.}$$
 

@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=rainedscythe&label=Profile%20views&color=7a619b&style=flat)
+  ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frainedscythe&count_bg=%237a619b&title_bg=%235b4a73&icon=github&icon_color=%23ffffff&title=Profile+views&edge_flat=false)
   
   <img width="2048" height="90" alt="c: @pixopix on tumblr" src="https://github.com/user-attachments/assets/029838ff-bddd-4b78-aafa-2fa2c47df19c" />
 
@@ -36,5 +36,4 @@ $${\color{#984648}weirdo \space\ defenders/associates, \space\ ai \space\ users,
 
 <img width="2048" height="90" alt="c: @pixopix on tumblr" src="https://github.com/user-attachments/assets/1efe07bf-0ea4-46a2-88b2-cb9705ad570a" />
 </div>
-
 

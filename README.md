@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=rezezvous&label=Profile%20views&color=7a619b&style=flat)
+  ![Profile Views](https://komarev.com/ghpvc/?username=rainedscythe&label=Profile%20views&color=7a619b&style=flat)
   
   <img width="2048" height="90" alt="c: @pixopix on tumblr" src="https://github.com/user-attachments/assets/029838ff-bddd-4b78-aafa-2fa2c47df19c" />
 

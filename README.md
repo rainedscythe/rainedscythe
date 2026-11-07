@@ -12,7 +12,7 @@ $${\color{black}-\}$$
 
 $${\color{black}-\}$$
 
-$${\color{#56537c}check\ out\ strawpage\ for\ more\ info!}$$
+$${\color{#c8a03d}check\ out\ strawpage\ for\ info!}$$
 
 <a href="https://soulwirezx.straw.page/">
   <img src="https://img.shields.io/badge/꣑୧%20strawpage%20୨९-8A6B9C?style=for-the-badge" alt="꣑୧ strawpage ୨९">
@@ -20,10 +20,16 @@ $${\color{#56537c}check\ out\ strawpage\ for\ more\ info!}$$
 
 $${\color{black}-\}$$
 
+$${\color{#c8a03d}sign\ ata\ on\ the\ meantime\ too!!}$$
+
 <a href="https://mockingbird.atabook.org/">
   <img src="https://img.shields.io/badge/✦%20atabook%20✦-7a779f?style=for-the-badge" alt="✦ atabook ✦">
 </a>
 
 $${\color{black}-\}$$
+
+<img width="89" height="28" alt="tumblr_340cd3cbf21129503269b4b5844a2b02_31fd5085_75" src="https://github.com/user-attachments/assets/52f5b9db-fa29-4500-9670-b8a4cf332350" />
+
+<img width="109" height="28" alt="tumblr_f73c18c0755591a32bc1238833097d82_2e90d062_100" src="https://github.com/user-attachments/assets/e7b5cd7a-22b0-47ff-872d-c439e40beaaf" />
 
 <img width="1640" height="134" alt="New Project (1)" src="https://github.com/user-attachments/assets/456d3b5c-852f-41b5-881b-8c3b8987fd29" />

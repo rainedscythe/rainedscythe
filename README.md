@@ -10,8 +10,20 @@ $${\color{black}-\}$$
 
 <img width="420" height="35" alt="tumblr_3dd41d4a1844cde99d4618f8943b8e9a_b7c25b8e_1280" src="https://github.com/user-attachments/assets/267d43c4-6a80-4348-92c1-1c38609e143f"/>
 
-wip...
+$${\color{black}-\}$$
 
-<img width="1000" height="8" alt="tumblr_6ca6cefdf003728060da2fb0c0b895db_6b408175_1280" src="https://github.com/user-attachments/assets/819dd568-0481-4c4c-a472-855042dbbc2d"/>
+$${\color{56537c}check\ out\ strawpage\ for\ more\ info!}$$
+
+<a href="https://soulwirezx.straw.page/">
+  <img src="https://img.shields.io/badge/꣑୧%20strawpage%20୨९-8A6B9C?style=for-the-badge" alt="꣑୧ strawpage ୨९">
+</a>
+
+$${\color{black}-\}$$
+
+<a href="https://mockingbird.atabook.org/">
+  <img src="https://img.shields.io/badge/✦%20atabook%20✦-7a779f?style=for-the-badge" alt="✦ atabook ✦">
+</a>
+
+$${\color{black}-\}$$
 
 <img width="1640" height="134" alt="New Project (1)" src="https://github.com/user-attachments/assets/456d3b5c-852f-41b5-881b-8c3b8987fd29" />

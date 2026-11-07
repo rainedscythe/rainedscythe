@@ -12,7 +12,7 @@ $${\color{black}-\}$$
 
 $${\color{black}-\}$$
 
-$${\color{56537c}check\ out\ strawpage\ for\ more\ info!}$$
+$${\color{#56537c}check\ out\ strawpage\ for\ more\ info!}$$
 
 <a href="https://soulwirezx.straw.page/">
   <img src="https://img.shields.io/badge/꣑୧%20strawpage%20୨९-8A6B9C?style=for-the-badge" alt="꣑୧ strawpage ୨९">

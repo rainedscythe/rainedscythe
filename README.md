@@ -20,7 +20,7 @@ $${\color{#c8a03d}check\ out\ strawpage\ for\ info!}$$
 
 $${\color{black}-\}$$
 
-$${\color{#c8a03d}sign\ ata\ on\ the\ meantime\ too!!}$$
+$${\color{#c8a03d}sign\ ata\ in\ the\ meantime\ too!!}$$
 
 <a href="https://mockingbird.atabook.org/">
   <img src="https://img.shields.io/badge/✦%20atabook%20✦-7a779f?style=for-the-badge" alt="✦ atabook ✦">
